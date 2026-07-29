@@ -2,7 +2,7 @@
 Portfolio Website
 My professional portfolio website showcasing my web development services and digital solutions.
 Live Website
-Visit the website: https://YOUR_USERNAME.github.io/REPO_NAME
+Visit the website: https://sheyiim.github.io/portfolio
 Features
 Responsive design
 Contact form
